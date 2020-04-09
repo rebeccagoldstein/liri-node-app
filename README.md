@@ -21,20 +21,16 @@ You will need the following software installed on your machine for this to run:
 * Git Bash
 
 ## Installation
-This application must be installed on your local machine and run from the command line. Here's how to install it.
+This application must be installed on your local machine and run from the command line. Here's how to install it:
 
-In order to install the application, clone down the repository to your local machine.
+1. In order to install the application, clone down the repository to your local machine.
 
-Open Git Bash in the repository's root folder and run the `npm i` command to install the dependencies.
+2. Open Git Bash in the repository's root folder and run the `npm i` command to install the dependencies.
 
-After dependencies have finished installing, start the application by running the command `node liri.js`.
+3. After dependencies have finished installing, start the application by running the command `node liri.js`.
 
 ## Usage
 Coming soon!
-
-## Future Developments
-* Complete app functionality.
-* Finish README instructions for use.
 
 ## License
 MIT License
